@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PentaDecagon
+comment1.params=aSideLength\ acolor
+comment1.target=PentaDecagon(int,\ java.lang.String)
+comment2.params=
+comment2.target=double\ getArea()
+comment3.params=
+comment3.target=double\ getPerimeter()
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+numComments=5
